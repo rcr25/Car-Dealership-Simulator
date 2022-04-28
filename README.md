@@ -1,4 +1,5 @@
-To run the application plaese run src/CarDealershipSimulator.java
+<pre>
+To run the application plaese run src/CarDealershipSimulator.java /n
 The list of commands is as followed:
 L: Loads the car lot
 Q: Quits the program
@@ -17,3 +18,4 @@ SALES TEAM: Gets the sales team
 SALES TOPSA: Gets the top sales associate
 SALES m: Gets the sales for month m (1-12)
 SALES STATS: Gets the sales stats for the year
+</pre>
