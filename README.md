@@ -1,6 +1,6 @@
+To run the application plaese run src/CarDealershipSimulator.java<br>
+The list of commands is as followed:<br>
 <pre>
-To run the application plaese run src/CarDealershipSimulator.java /n
-The list of commands is as followed:
 L: Loads the car lot
 Q: Quits the program
 BUY VIN: Buys a car with the selected vehicle identification number
